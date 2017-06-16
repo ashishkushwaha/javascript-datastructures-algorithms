@@ -1,5 +1,3 @@
-/* jshint esversion: 6, node: true, mocha: true */
-
 const expect = require("chai").expect,
     swapArrayItems = require("./array-swap.js");
 
