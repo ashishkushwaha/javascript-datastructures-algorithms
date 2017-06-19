@@ -1,0 +1,22 @@
+{
+  "name": "javascript-datastructures-algorithms",
+  "version": "1.0.0",
+  "description": "Implementation of common Data Structures and Algorithms in ES6 (JavaScript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "keywords": [
+    "algorithms",
+    "data-structures",
+    "javascript",
+    "es6"
+  ],
+  "author": "Ashish Kushwaha <ashish.kushwaha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  },
+  "devDependencies": {}
+}
